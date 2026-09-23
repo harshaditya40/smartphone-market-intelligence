@@ -1,0 +1,10 @@
+claim,claim_type,supported,supporting_metric,validation_status
+Cites verified metric: 758 models (758),Catalog Size,True,total_records == 758,PASSED: Verified against dataset outputs
+Cites verified metric: 26 brands (26),Brand Breadth,True,unique_brands == 26,PASSED: Verified against dataset outputs
+"Cites verified metric: ₹18,999 median price (18999.0)",Pricing Median,True,median_price_inr == 18999.0,PASSED: Verified against dataset outputs
+Cites verified metric: 86.68% 5G adoption (86.68),Connectivity Penetration,True,penetration_5g_pct == 86.68,PASSED: Verified against dataset outputs
+Cites verified metric: 37.20% NFC adoption (37.2),Connectivity Penetration,True,penetration_nfc_pct == 37.2,PASSED: Verified against dataset outputs
+Cites verified metric: 98.42% fast charging (98.42),Charging Adoption,True,penetration_fast_charging_pct == 98.42,PASSED: Verified against dataset outputs
+Cites verified metric: R² = 0.8924 log price (0.8924),Econometric Fit,True,regression_test_r2_log == 0.8924,PASSED: Verified against dataset outputs
+Cites verified metric: k = 3 clusters (3),Cluster Count,True,optimal_cluster_count == 3,PASSED: Verified against dataset outputs
+Cites verified metric: 24 Pareto candidates (24),Value Frontier,True,pareto_candidates_count == 24,PASSED: Verified against dataset outputs

@@ -1,0 +1,11 @@
+Pillar,Core Finding,Primary Metric
+KPI Analysis,"Market center sits at ₹18,999 with 86.68% 5G and 98.42% Fast Charging penetration across the catalog.","Median Price: ₹18,999; 5G: 86.68%"
+Market Structure,"Realme, Samsung, and Vivo represent 43.8% of all catalog models; MediaTek appears in 51.2% of models.",Top 3 Brands: 43.8% catalog share; MediaTek: 51.2% representation
+Price Tiers,"63.06% of models cluster in the ₹10,000–₹35,000 corridor; 5G adoption is 96.0% in Lower-Mid.",Lower-Mid + Mid-Range = 478 models
+Driver Analysis,CPU clock speed (r=0.784) and storage (r=0.754) have the highest linear association with price.,Clock Speed r=0.784; Storage r=0.754
+Hedonic Modeling,"The model explains approximately 89.24% of the variation in log-transformed listed prices within the analyzed dataset (Test MAE ₹5,321.21).","Test R² = 0.8924 (log), MAE = ₹5,321.21"
+Segmentation,"K-Means isolates 3 distinct tiers: Entry-Level Budget Tier (median ₹10.3k), Mainstream Performance Tier (₹23.0k), and Ultra-Premium Flagship Tier (₹90.0k).",Optimal k=3 (Silhouette = 0.3134)
+Value Analysis,24 value-frontier candidate models define the non-dominated Pareto frontier under selected price/rating criteria.,24 Pareto frontier candidates identified
+Risk Analysis,Potential 4G technology-positioning risk for 11 Lower-Mid models; 277 models crowd the Lower-Mid segment.,11 4G models in Lower-Mid; 277 models in Lower-Mid
+Opportunity Analysis,NFC is heavily absent in sub-₹15k phones (only 7.9% penetration); 67W charging is scarce in budget tiers.,Sub-₹15k NFC penetration: 7.9%
+Action Framework,"Evaluated 5 data-informed strategic considerations including 5G baseline >₹12k, selective NFC inclusion, and SKU rationalization.",5 data-informed evaluation areas

@@ -1,0 +1,21 @@
+model,smartphone_brand,price_inr,rating_score,ram_gb,storage_gb,processor_brand,processor_name,has_5g,refresh_rate_hz,charging_watt,battery_mah,value_ratio
+Ai+ Pulse,ai+,5999,68,4,64,unisoc,unisoc t615,False,90,10.0,5000,11.34
+Lava O3 Pro,lava,6349,69,4,128,unisoc,unisoc t606,False,90,10.0,5000,10.87
+POCO C71,poco,6199,67,4,64,unisoc,unisoc t7250,False,120,15.0,5200,10.81
+Samsung Galaxy F05,samsung,6499,69,4,64,mediatek,mediatek helio g85,False,60,25.0,5000,10.62
+POCO C71 (6GB RAM + 128GB),poco,6798,71,6,128,unisoc,unisoc t7250,False,120,15.0,5200,10.44
+Realme C61,realme,6499,67,4,64,unisoc,unisoc t612,False,90,18.0,5000,10.31
+Xiaomi Redmi A5 4G,xiaomi,6499,67,3,64,unisoc,unisoc t7250,False,120,15.0,5200,10.31
+Lava Bold N1 Pro,lava,6599,68,4,128,unisoc,unisoc t606,False,120,18.0,5000,10.3
+Samsung Galaxy F07,samsung,6799,69,4,64,mediatek,mediatek helio g99,False,90,25.0,5000,10.15
+Ai+ Pulse (6GB RAM +128GB),ai+,6999,71,6,128,unisoc,unisoc t615,False,90,10.0,5000,10.14
+Lava Yuva 4,lava,6440,65,4,64,unisoc,unisoc t606,False,90,10.0,5000,10.09
+Samsung Galaxy M07 4G,samsung,6799,68,4,64,mediatek,mediatek helio g99,False,90,25.0,5000,10.0
+Lava Bold N1 Lite,lava,5698,57,3,64,unisoc,unisoc t765,False,90,10.0,5000,10.0
+Lava Yuva Smart,lava,6099,61,3,64,unisoc,unisoc sc9863a,False,60,10.0,5000,10.0
+Lava Shark,lava,6726,67,4,64,unisoc,unisoc t606,False,120,18.0,5000,9.96
+Lava O3,lava,5749,57,4,64,unisoc,unisoc 9863a,False,60,10.0,5000,9.91
+Infinix Smart 10,infinix,6500,64,4,64,unisoc,unisoc t7250,False,120,15.0,5000,9.85
+Xiaomi Redmi A3x (4GB RAM + 128GB),xiaomi,6499,64,4,128,unisoc,unisoc t603,False,90,10.0,5000,9.85
+Infinix Smart 9 HD,infinix,6699,65,3,64,mediatek,mediatek helio g50,False,90,10.0,5000,9.7
+Lava Bold N1 5G,lava,6999,67,4,64,unisoc,unisoc t765,True,90,10.0,5000,9.57

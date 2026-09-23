@@ -1,0 +1,4 @@
+model_name,test_r2_log_price,test_r2_raw_price_inr,test_mae_inr,test_rmse_inr,sample_size_train,sample_size_test
+Multiple Linear Regression (OLS),0.8924,0.8184,5321.21,10657.27,606,152
+Ridge Regression (L2 Regularized),0.8918,0.813,5355.21,10814.8,606,152
+Lasso Regression (L1 Regularized),0.8746,0.7524,5880.55,12442.29,606,152

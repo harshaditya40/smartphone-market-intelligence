@@ -1,0 +1,14 @@
+Metric,Value
+Rows Before Cleaning,758
+Rows After Cleaning,758
+Rows Silently Deleted,0
+Columns Before Cleaning,27
+Columns After Cleaning (with derived features),36
+Duplicate Rows Before,0
+Duplicate Rows After,0
+Missing Values Before Cleaning,419
+Missing Values After Cleaning,0
+Front Camera MP Imputations,5
+Memory Card Missing Imputations,207
+Memory Card Inconsistency Fixes,168
+Resolution Anomalies Flagged,1

@@ -1,0 +1,19 @@
+Category,Metric,Value,Unit
+Catalog Volume,Total Smartphone Models,758,Models
+Catalog Volume,Active Smartphone Brands,26,Brands
+Pricing Baseline,Median Price,"₹18,999",INR
+Pricing Baseline,Mean Price,"₹29,424.09",INR
+Pricing Baseline,Interquartile Range (IQR),"₹18,132.75",INR
+Pricing Baseline,Minimum Price,"₹4,040",INR
+Pricing Baseline,Maximum Price,"₹229,900",INR
+Technical Benchmark,Median Spec Rating Score,80.0,Points (0-100)
+Technical Benchmark,Mean Spec Rating Score,78.59,Points (0-100)
+Connectivity Baseline,5G Cellular Penetration,86.68%,Percentage
+Connectivity Baseline,NFC Penetration,37.20%,Percentage
+Charging Baseline,Fast Charging Penetration,98.42%,Percentage
+Charging Baseline,Median Charging Speed,44W,Watts
+Hardware Standards,Median System RAM,8 GB,Gigabytes
+Hardware Standards,Median Internal Storage,128 GB,Gigabytes
+Hardware Standards,Median Battery Capacity,"5,000 mAh",mAh
+Hardware Standards,Median Refresh Rate,120 Hz,Hertz
+Hardware Standards,High Refresh Rate Adoption (>=120Hz),77.97%,Percentage

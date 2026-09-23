@@ -1,0 +1,20 @@
+metric_name,calculated_value,verification_source
+total_records,758.0,len(cleaned_smartphones.csv)
+unique_brands,26.0,nunique(smartphone_brand)
+median_price_inr,18999.0,median(price_inr)
+mean_price_inr,29424.09,mean(price_inr)
+min_price_inr,4040.0,min(price_inr)
+max_price_inr,229900.0,max(price_inr)
+median_rating_score,80.0,median(rating_score)
+penetration_5g_pct,86.68,mean(has_5g)*100
+penetration_nfc_pct,37.2,mean(has_nfc)*100
+penetration_fast_charging_pct,98.42,mean(fast_charging)*100
+median_ram_gb,8.0,median(ram_gb)
+median_storage_gb,128.0,median(storage_gb)
+median_battery_mah,5000.0,median(battery_mah)
+median_refresh_rate_hz,120.0,median(refresh_rate_hz)
+regression_test_r2_log_price,0.8924,LinearRegression test R2
+regression_test_mae_inr,5321.21,LinearRegression test MAE
+optimal_cluster_count,3.0,KMeans Silhouette Analysis
+cluster_silhouette_score,0.3134,silhouette_score(k=3)
+pareto_frontier_candidate_count,24.0,Non-dominated rating-price models
